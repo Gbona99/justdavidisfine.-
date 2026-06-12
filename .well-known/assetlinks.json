@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "site.justdavidisfine.twa",
-        "sha256_cert_fingerprints": ["83:C2:34:BA:E2:CD:E2:A3:54:3E:C7:5A:39:E4:08:23:7E:14:07:FC:41:50:99:96:6F:70:01:BB:63:0E:F2:5E"]
-      }
-    }]
